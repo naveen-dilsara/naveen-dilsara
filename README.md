@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Naveen Dilsara</h1>
 <h3 align="center">A passionate Web developer from Sri Lanka</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067"
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-dilsara&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-dilsara" /> </p>
 <p align="left"> <a href="https://twitter.com/naveendilzara" target="blank"><img src="https://img.shields.io/twitter/follow/naveendilzara?logo=twitter&style=for-the-badge" alt="naveendilzara" /></a> </p>
 
 - 🔭 I’m currently working on **FIVERR**
